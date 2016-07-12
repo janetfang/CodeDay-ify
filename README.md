@@ -1,4 +1,4 @@
-# Spectra-fy
+# Spectrafy
 
 Check out [Spectra](https://sospectra.com), a brand-new all women hackathon coming to the San Francisco Bay Area.
 
